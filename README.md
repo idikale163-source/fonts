@@ -346,3 +346,9 @@
 - [鸭の爱打扮的三丽鸥-三彩90.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/鸭の爱打扮的三丽鸥-三彩90.ttf)
 - [鸭の爱打扮的三丽鸥-高饱和90.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/鸭の爱打扮的三丽鸥-高饱和90.ttf)
 - [鸭の米兔好好吃饭-黑边90.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/鸭の米兔好好吃饭-黑边90.ttf)
+
+- [[蜜蜜]絶対少女 100 - 1260.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/[蜜蜜]絶対少女%20100%20-%201260.ttf)
+- [[蜜蜜]絶対少女 PINK - 80.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/[蜜蜜]絶対少女%20PINK%20-%2080.ttf)
+- [爱宝-哦剋，把你们全吃了-中饱和.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/爱宝-哦剋，把你们全吃了-中饱和.ttf)
+- [爱宝-小声卜卜-蓝眼睛.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/爱宝-小声卜卜-蓝眼睛.ttf)
+- [黎-谁买我的萌彩1d.ttf](https://cdn.jsdelivr.net/gh/idikale163-source/fonts@main/黎-谁买我的萌彩1d.ttf)
